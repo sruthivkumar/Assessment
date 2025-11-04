@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104081336_assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251104081336_assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104074728_assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251104074728_assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -113,6 +109,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\productorderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:productorderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|c:\\users\\acer\\onedrive\\desktop\\product-assessment\\productorderapi\\migrations\\20251104081336_assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682CF5A4-8517-489A-9E77-614B2F7936D8}|ProductOrderAPI.csproj|solutionrelative:migrations\\20251104081336_assessment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,17 +122,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T08:27:43.814Z",
               "EditorCaption": ""
@@ -147,8 +147,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:42:18.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:42:18.125Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-04T07:27:56.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:27:56.105Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "Service\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:22:51.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:22:51.588Z"
             },
             {
               "$type": "Document",
@@ -186,18 +183,17 @@
               "RelativeToolTip": "DTOs\\Auth\\RegisterRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:36:13.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:36:13.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAswAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T08:28:17.197Z",
               "EditorCaption": ""
@@ -212,8 +208,7 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAHEAAAAAAAAAAAAowH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:28:01.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:28:01.619Z"
             },
             {
               "$type": "Document",
@@ -225,8 +220,7 @@
               "RelativeToolTip": "Service\\AuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:23:57.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:23:57.088Z"
             },
             {
               "$type": "Document",
@@ -238,8 +232,7 @@
               "RelativeToolTip": "Service\\JwtService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:25:21.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:25:21.495Z"
             },
             {
               "$type": "Document",
@@ -251,8 +244,7 @@
               "RelativeToolTip": "Service\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:23:07.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:23:07.718Z"
             },
             {
               "$type": "Document",
@@ -264,8 +256,7 @@
               "RelativeToolTip": "Helpers\\PagedResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:20:23.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:20:23.36Z"
             },
             {
               "$type": "Document",
@@ -277,8 +268,7 @@
               "RelativeToolTip": "DTOs\\Prouct\\ProductCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:19:15.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:19:15.528Z"
             },
             {
               "$type": "Document",
@@ -290,8 +280,7 @@
               "RelativeToolTip": "DTOs\\Prouct\\ProductUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:18:32.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:18:32.752Z"
             },
             {
               "$type": "Document",
@@ -303,8 +292,7 @@
               "RelativeToolTip": "DTOs\\Prouct\\ProductListDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:17:40.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:17:40.332Z"
             },
             {
               "$type": "Document",
@@ -316,8 +304,7 @@
               "RelativeToolTip": "DTOs\\Order\\OrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:16:17.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:16:17.402Z"
             },
             {
               "$type": "Document",
@@ -329,12 +316,11 @@
               "RelativeToolTip": "DTOs\\Order\\OrderCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:15:11.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:15:11.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "20251104081336_assessment1.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104081336_assessment1.cs",
               "RelativeDocumentMoniker": "Migrations\\20251104081336_assessment1.cs",
@@ -342,12 +328,11 @@
               "RelativeToolTip": "Migrations\\20251104081336_assessment1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:13:37.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:13:37.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "20251104074728_assessment.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104074728_assessment.cs",
               "RelativeDocumentMoniker": "Migrations\\20251104074728_assessment.cs",
@@ -355,12 +340,11 @@
               "RelativeToolTip": "Migrations\\20251104074728_assessment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:47:28.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:47:28.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "20251104074414_Initialised.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104074414_Initialised.cs",
               "RelativeDocumentMoniker": "Migrations\\20251104074414_Initialised.cs",
@@ -368,12 +352,11 @@
               "RelativeToolTip": "Migrations\\20251104074414_Initialised.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:44:14.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:44:14.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -381,8 +364,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:38:42.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:38:42.795Z"
             },
             {
               "$type": "Document",
@@ -394,12 +376,11 @@
               "RelativeToolTip": "DTOs\\Auth\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:36:56.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:36:56.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "20251104074308_Initial.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Migrations\\20251104074308_Initial.cs",
               "RelativeDocumentMoniker": "Migrations\\20251104074308_Initial.cs",
@@ -407,12 +388,11 @@
               "RelativeToolTip": "Migrations\\20251104074308_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:43:08.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:43:08.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "Data\\SeedData.cs",
@@ -420,12 +400,11 @@
               "RelativeToolTip": "Data\\SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:38:59.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:38:59.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\DTOs\\Auth\\LoginRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\Auth\\LoginRequest.cs",
@@ -433,12 +412,11 @@
               "RelativeToolTip": "DTOs\\Auth\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:36:41.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:36:41.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Model\\Order.cs",
               "RelativeDocumentMoniker": "Model\\Order.cs",
@@ -446,12 +424,11 @@
               "RelativeToolTip": "Model\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:31:24.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:31:24.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Model\\Product.cs",
               "RelativeDocumentMoniker": "Model\\Product.cs",
@@ -459,12 +436,11 @@
               "RelativeToolTip": "Model\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:31:18.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:31:18.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
@@ -472,21 +448,19 @@
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T07:31:10.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:31:10.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ProductOrderAPI",
+              "DocumentIndex": 26,
+              "Title": "ProductOrderAPI.csproj",
               "DocumentMoniker": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\ProductOrderAPI.csproj",
               "RelativeDocumentMoniker": "ProductOrderAPI.csproj",
               "ToolTip": "C:\\Users\\acer\\OneDrive\\Desktop\\Product-Assessment\\ProductOrderAPI\\ProductOrderAPI.csproj",
               "RelativeToolTip": "ProductOrderAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-04T07:23:55.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T07:23:55.717Z"
             }
           ]
         }
